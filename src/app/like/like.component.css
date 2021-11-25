@@ -1,0 +1,9 @@
+.glyphicon{
+    color: black;
+    cursor: pointer;
+}
+
+.highlighted{
+    color : red;
+    cursor: pointer;
+}
